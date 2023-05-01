@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Filipp/Desktop/Skola/FEI/Druhy_rocnik/Letny_semester/Prog2/Zadania/Zadanie_3/main.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+ctype.h
+-
+string.h
+-
+
